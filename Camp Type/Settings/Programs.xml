@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<programs>
+  <type>
+    <name>iD Tech</name>
+    <wallpaper>c:\id\Apps\Program\iDTech\Images\Wallpaper.jpeg</wallpaper>
+    <images>c:\id\Apps\Program\iDTech\Images\</images>
+    <startmenu>c:\id\Apps\Program\iDTech\Start Menu\</startmenu>
+  </type>
+  <type>
+    <name>iD Programming Academy</name>
+    <wallpaper>c:\id\Apps\Program\iDPA\Images\Wallpaper.jpeg</wallpaper>
+    <images>c:\id\Apps\Program\iDPA\Images\</images>
+    <startmenu>c:\id\Apps\Program\iDPA\Start Menu\</startmenu>
+  </type>
+  <type>
+    <name>iD Gaming Academy</name>
+    <wallpaper>c:\id\Apps\Program\iDGA\Images\Wallpaper.jpeg</wallpaper>
+    <images>c:\id\Apps\Program\iDGA\Images\</images>
+    <startmenu>c:\id\Apps\Program\iDGA\Start Menu\</startmenu>
+  </type>
+  <type>
+    <name>iD Visual Arts Academy</name>
+    <wallpaper>c:\id\Apps\Program\iDVAA\Images\Wallpaper.jpeg</wallpaper>
+    <images>c:\id\Apps\Program\iDVAA\Images\</images>
+    <startmenu>c:\id\Apps\Program\iDVAA\Start Menu\</startmenu>
+  </type>
+</programs>
